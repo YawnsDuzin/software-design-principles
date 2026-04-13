@@ -60,7 +60,7 @@
 
 ```
 docs/
-├── 00-overview.md                          ← 지금 읽고 있는 문서
+├── README.md                               ← 지금 읽고 있는 문서
 │
 ├── 01-oop-and-solid/                       [영역 1] OOP와 SOLID 원칙
 │   ├── 01-oop-fundamentals.md              OOP 4대 원칙 (캡슐화, 상속, 다형성, 추상화)
